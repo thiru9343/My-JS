@@ -1,4 +1,4 @@
-# JS-Project-2020
+# JS-Project
 
 
 End-to-End JavaScript
