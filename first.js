@@ -1,7 +1,7 @@
 Es5
 Es6
 Es7
-Ecma Script 
+Ecma Script
 (its a base lib)
 
 ///////////
