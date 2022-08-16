@@ -150,6 +150,3 @@ var city = ["Paris", "Nice", "NewYork", "London","Dubai", "Delhi", "Amsterdam"];
 for(cities of city){
     console.log(cities);
 }
-
-
-}
